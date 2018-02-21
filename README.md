@@ -1,2 +1,0 @@
-# hesap
-c# hesap makinesi
